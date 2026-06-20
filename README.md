@@ -4,7 +4,8 @@
 
 ## Русский
 
-Веб-приложение для подготовки к ГИА по юриспруденции — для себя и коллег. Всё нужное для самоподготовки в одном месте: материал, тесты и личный прогресс.
+Веб-приложение для подготовки к ГИА по юриспруденции
+Всё нужное для самоподготовки в одном месте: материал, тесты и личный прогресс
 
 ### Возможности
 
@@ -23,12 +24,13 @@
 
 ### Статус
 
-В разработке
+в разработке
 
 
 ## English
 
-A web app for preparing for the law state exam (ГИА) — built for myself and fellow students. Everything you need for self-study in one place: materials, tests and personal progress.
+A web app for preparing for the law state exam (ГИА)
+Everything you need for self-study in one place: materials, tests and personal progress.
 
 ### Features
 
