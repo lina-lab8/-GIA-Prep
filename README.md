@@ -29,7 +29,7 @@
 
 ## English
 
-A web app for preparing for the law state exam (ГИА)
+A web app for preparing for the law state exam
 Everything you need for self-study in one place: materials, tests and personal progress.
 
 ### Features
